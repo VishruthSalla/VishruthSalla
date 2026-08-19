@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**VishruthSalla/VishruthSalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vishruth Salla
 
-Here are some ideas to get you started:
+Aspiring software developer interested in full-stack development, AI/ML, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build projects, explore new technologies, and turn ideas into working software.
+
+## 🚀 About Me
+
+- CS @ Sreyas Institute of Engineering and Technology
+- Currently building projects with Java, Python, JavaScript, and modern web technologies
+- Interested in developing practical, real-world applications
+- Exploring full-stack development and machine learning
+
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Java · Python · JavaScript · SQL · HTML · CSS
+
+**Frontend & Backend**
+
+React · Node.js · Express.js · MongoDB
+
+**AI / Machine Learning**
+
+Python · TensorFlow · Keras · MobileNetV2 · Scikit-learn
+
