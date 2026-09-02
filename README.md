@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😊
 
 # Vishruth Salla
 
@@ -22,7 +22,7 @@ Java · Python · JavaScript · SQL · HTML · CSS
 
 **Frontend & Backend**
 
-React · Node.js · Express.js · MongoDB
+React · Node.js · Express.js · MongoDB 
 
 **AI / Machine Learning**
 
